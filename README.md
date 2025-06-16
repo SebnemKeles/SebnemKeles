@@ -1,4 +1,4 @@
-## 👋 Hi, I am Sebnem
+# 👋 Hi, I am Sebnem
 
 MSc in Data Science | Python • ML • SQL • R Studio • Power BI •  Data Visualization | Building real-world projects
 
@@ -11,7 +11,7 @@ MSc in Data Science | Python • ML • SQL • R Studio • Power BI •  Data 
 ## 🛠️ Skills
 
 💻 Languages: Python, R, SQL
-⚙️ Platforms: Jupyter, RStudio
+⚙️ Platforms: Jupyter, RStudio, MySQL
 📊 Visualisation: Matplotlib, Seaborn, Power BI
 💼 Business Tools: SAP-HR, Microsoft Office
 
