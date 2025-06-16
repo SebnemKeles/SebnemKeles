@@ -8,7 +8,7 @@ MSc in Data Science | Python • ML • SQL • R Studio • Power BI •  Data 
 
 
 
-## 🛠️ Tools
+## 🛠️ Skills
 
 💻 Languages: Python, R, SQL
 ⚙️ Platforms: Jupyter, RStudio
