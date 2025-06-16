@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I am Sebnem
 
-<!--
-**SebnemKeles/SebnemKeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc in Data Science | Python • ML • SQL • R Studio • Power BI •  Data Visualization | Building real-world projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I am a recent MSc Data Science graduate with a passion for using data to solve real-world problems.
+🔍 I enjoy building data-driven applications, exploring datasets, and telling compelling stories with visuals and models.
+
+
+
+## 🛠️ Tools
+
+💻 Languages: Python, R, SQL
+⚙️ Platforms: Jupyter, RStudio
+📊 Visualisation: Matplotlib, Seaborn, Power BI
+💼 Business Tools: SAP-HR, Microsoft Office
+
+
+
+## 📫 Let's Connect
+
+🔗 https://www.linkedin.com/in/sebnem-keles/
